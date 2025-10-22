@@ -1,0 +1,12 @@
+[Wed Oct 22 21:19:17 IST 2025] Starting backup of /c/Users/Manjula/OneDrive/Desktop/infra-automation-scripts/files/jenkinsbkup.sh
+tar: Removing leading `/' from member names
+[Wed Oct 22 21:19:17 IST 2025] Backup saved as /c/Users/Manjula/OneDrive/Desktop/infra-automation-scripts/backups/backup_2025-10-22_21-19-17.tar.gz
+[Wed Oct 22 21:19:17 IST 2025] Old backups deleted (older than 7 days)
+[Wed Oct 22 21:25:17 IST 2025] Starting backup of /c/Users/Manjula/OneDrive/Desktop/infra-automation-scripts/files/jenkinsbkup.sh
+tar: Removing leading `/' from member names
+[Wed Oct 22 21:25:18 IST 2025] Backup saved as /c/Users/Manjula/OneDrive/Desktop/infra-automation-scripts/backups/backup_2025-10-22_21-25-17.tar.gz
+[Wed Oct 22 21:25:18 IST 2025] Old backups deleted (older than 7 days)
+[Wed Oct 22 21:25:56 IST 2025] Starting backup of /c/Users/Manjula/OneDrive/Desktop/infra-automation-scripts/files/jenkinsbkup.sh
+tar: Removing leading `/' from member names
+[Wed Oct 22 21:25:56 IST 2025] Backup saved as /c/Users/Manjula/OneDrive/Desktop/infra-automation-scripts/files/backups/backup_2025-10-22_21-25-56.tar.gz
+[Wed Oct 22 21:25:56 IST 2025] Old backups deleted (older than 7 days)
