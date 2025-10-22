@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Folder to back up (for now, just a test folder)
+# Folder to back up
 SOURCE="sample_data"
 
 # Where to save backups
