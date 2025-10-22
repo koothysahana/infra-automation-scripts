@@ -2,11 +2,11 @@
 
 # === Paths ===
 
-SOURCE_PATH="/c/Users/Manjula/OneDrive/Desktop/infra-automation-scripts/files/jenkinsbkup.sh"
+SOURCE_PATH="files/jenkinsbkup.sh"
 
-BACKUP_DIR="/c/Users/Manjula/OneDrive/Desktop/infra-automation-scripts/files/backups"
+BACKUP_DIR="files/backups"
 
-LOG_FILE="/c/Users/Manjula/OneDrive/Desktop/infra-automation-scripts/files/backup.log"
+LOG_FILE="files/backup.log"
 
 TIMESTAMP=$(date +"%Y-%m-%d_%H-%M-%S")
 
