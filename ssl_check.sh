@@ -21,7 +21,7 @@ while read domain; do
     | openssl x509 -noout -enddate | cut -d= -f2)
 
   if [ -z "$EXPIRY_DATE" ]; then
-    echo "❌ Could not fetch SSL info for $domain" | tee -a "$LOG_FILE"
+    echo "Could not fetch SSL info for $domain" | tee -a "$LOG_FILE"
     continue
   fi
 
@@ -33,7 +33,7 @@ while read domain; do
 
   # If less than 15 days left, alert
   if [ $DAYS_LEFT -le $ALERT_DAYS ]; then
-    echo "⚠️ ALERT: $domain SSL certificate will expire soon!" | tee -a "$LOG_FILE"
+    echo "ALERT: $domain SSL certificate will expire soon!" | tee -a "$LOG_FILE"
   fi
 
   echo "---------------------------------------"
