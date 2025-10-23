@@ -1,0 +1,4 @@
+Sync started at Thu Oct 23 19:24:01 IST 2025
+Completed 11 Bytes/23 Bytes (51 Bytes/s) with 2 file(s) remainingupload: folder\file1.txt to s3://manjula-project-bucket/file1.txt
+Completed 11 Bytes/23 Bytes (51 Bytes/s) with 1 file(s) remainingCompleted 23 Bytes/23 Bytes (34 Bytes/s) with 1 file(s) remainingupload: folder\file2.txt to s3://manjula-project-bucket/file2.txt
+Sync completed successfully at Thu Oct 23 19:24:04 IST 2025
