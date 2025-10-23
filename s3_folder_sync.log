@@ -1,0 +1,28 @@
+===== S3 Folder Sync Started at 2025-10-23 23:54:25 =====
+Versioning is not enabled on s3://suchith-jeep-buck. Enabling it now...
+Syncing local folder: ./s3-folder with bucket: s3://suchith-jeep-buck
+fatal error: Parameter validation failed:
+Invalid bucket name "s3:": Bucket name must match the regex "^[a-zA-Z0-9.\-_]{1,255}$" or be an ARN matching the regex "^arn:(aws).*:(s3|s3-object-lambda):[a-z\-0-9]*:[0-9]{12}:accesspoint[/:][a-zA-Z0-9\-.]{1,63}$|^arn:(aws).*:s3-outposts:[a-z\-0-9]+:[0-9]{12}:outpost[/:][a-zA-Z0-9\-]{1,63}[/:]accesspoint[/:][a-zA-Z0-9\-]{1,63}$"
+Sync completed at 2025-10-23 23:54:30
+===================================================
+===== S3 Folder Sync Started at 2025-10-24 00:00:30 =====
+Versioning is not enabled on s3://suchith-jeep-buck. Enabling it now...
+Syncing local folder: /c/Users/Suchith/Documents/infra-automation-scripts/s3-folder with bucket: s3://suchith-jeep-buck
+fatal error: Parameter validation failed:
+Invalid bucket name "s3:": Bucket name must match the regex "^[a-zA-Z0-9.\-_]{1,255}$" or be an ARN matching the regex "^arn:(aws).*:(s3|s3-object-lambda):[a-z\-0-9]*:[0-9]{12}:accesspoint[/:][a-zA-Z0-9\-.]{1,63}$|^arn:(aws).*:s3-outposts:[a-z\-0-9]+:[0-9]{12}:outpost[/:][a-zA-Z0-9\-]{1,63}[/:]accesspoint[/:][a-zA-Z0-9\-]{1,63}$"
+Sync completed at 2025-10-24 00:00:35
+===================================================
+===== S3 Folder Sync Started at 2025-10-24 00:01:14 =====
+Syncing local folder: /c/Users/Suchith/Documents/infra-automation-scripts/s3-folder with bucket: suchith-jeep-buck
+upload: s3-folder\s3_folder_sync.sh to s3://suchith-jeep-buck/s3_folder_sync.sh
+Sync completed at 2025-10-24 00:01:19
+===================================================
+===== S3 Folder Sync Started at 2025-10-24 00:04:53 =====
+Syncing local folder: /d/Devops/GIT/Git/s3-folder with bucket: suchith-jeep-buck
+Completed 10 Bytes/10 Bytes (83 Bytes/s) with 1 file(s) remainingupload: D:\Devops\GIT\Git\s3-folder\test.txt to s3://suchith-jeep-buck/test.txt
+Sync completed at 2025-10-24 00:04:58
+===================================================
+===== S3 Folder Sync Started at Fri Oct 24 00:07:56 IST 2025 =====
+Syncing local folder: /d/Devops/GIT/Git/s3-folder with bucket: suchith-jeep-buck
+Sync completed at Fri Oct 24 00:07:59 IST 2025
+===================================================
