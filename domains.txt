@@ -1,4 +1,3 @@
-facebook.com
-instagram.com
+example.com
 google.com
-github.com
+mywebsite.org
